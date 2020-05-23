@@ -211,7 +211,7 @@
                         }
                     });
                     var newData = layer.toGeoJSON();
-                    newData.properties.name = nickname.value;
+                    newData.properties.name = name.value;
                     newData.properties.note = note.value;
                     newData.properties.hear = hear.value;                    
                     cartoData.addData(newData);
