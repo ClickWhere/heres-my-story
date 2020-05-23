@@ -47,7 +47,7 @@
                         <li><label for="nickname">Name of Place</label></li>
                         <li><input id="nickname" name="nickname" placeholder="Name of Place" size="40" type="text" required></li> 
                         <li><label for="story">Kwento mo Bes!</label></li>
-                        <li><textarea cols="40" id="note" name="story" placeholder="Ilagay ang kwento na gusto mo ishare." rows="5"></textarea></li>
+                        <li><textarea cols="40" id="story" name="story" placeholder="Ilagay ang kwento na gusto mo ishare." rows="5"></textarea></li>
                         <li><label for="date">Kelan nangyari</label></li>
                         <li><textarea cols="40" id="date" name="date" placeholder="Kelan naganap" rows="5"></textarea></li>                                                
                     </ul>
@@ -162,7 +162,7 @@
                     of: "#map"
                 },
                 buttons: {
-                    "Submit": setData,
+                    "Share": setData,
                     Cancel: function() {
                         dialog.dialog("close");
                         refreshLayer();
