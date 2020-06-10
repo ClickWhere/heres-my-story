@@ -26,6 +26,7 @@ h1 {
   margin-top: 15px;
   margin-bottom: 8px;
   margin-left: 10px;
+  text-align: center;
   color: #16a8a3;
   font-size: 40px;
   font-weight: lighter;
@@ -37,6 +38,7 @@ h2 {
   margin-bottom: 8px;
   margin-left: 10px;
   margin-right: 10px;  
+  text-align: center;
   font-size: 12px;
   color: #5a5a5a;
   font-weight: lighter;
