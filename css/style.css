@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Neucha|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script|Roboto&display=swap');
 
 html {
   height: 100%;
@@ -6,7 +6,7 @@ html {
 
 body {
   margin: 0px;
-  font-family: 'Neucha', cursive;
+  font-family: 'Clicker Script', cursive;
   font-family: 'Roboto', sans-serif;
 }
 
