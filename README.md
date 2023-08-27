@@ -1,8 +1,10 @@
-# MH aWHEREness
+# Crush Kita in the Time of Didigra
 
-MH aWHEREness is the viewing and crowdmapping platform for the mental health awhereness project.
+Kilig moments and heartaches on a crowmap.
 
 This was initially based on Raphael Dumas' repository - [crowdmap-basic](https://github.com/radumas/crowdmap-basic).
+
+Also based on Mental Awareness and Mapbeks
 
 Updated with more plugins and functions to make crowdmapping of mental health services and facilities easier even for non-GIS/non-mapping volunteers.
 
