@@ -1,10 +1,16 @@
 # Crush Kita in the Time of Didigra
 
-Kilig moments and heartaches on a crowmap.
+Didigra means disaster and the youth can't stop thinking or talking about their crushes even during disasters. This web app is meant to be used for fun learning purposes under a hackathon setup and with youth beginner developers as participants.
+
+Kilig moments and heartaches on a crowdmap. How about that.
 
 This was initially based on Raphael Dumas' repository - [crowdmap-basic](https://github.com/radumas/crowdmap-basic).
 
-Also based on Mental Awareness and Mapbeks
+From there the web app was modified to create Mental Awareness (a mental health map focused web app) and eventually another round of customizations was done to create Mapbeks (a safe spaces map app for the LGBTQ).
+
+CKTD intends to be customized further by checking back on these three apps and other references the participants may come across.
+
+Notes below this sentence refers to the second web app.
 
 Updated with more plugins and functions to make crowdmapping of mental health services and facilities easier even for non-GIS/non-mapping volunteers.
 
